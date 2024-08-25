@@ -1,0 +1,49 @@
+/* ResumePreview.css */
+.resume-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h2 {
+    color: #1976d2; /* Primary color for section headings */
+    border-bottom: 2px solid #1976d2;
+    padding-bottom: 5px;
+  }
+  
+  p {
+    margin: 5px 0;
+    line-height: 1.5;
+  }
+  
+  strong {
+    color: #555; /* Slightly darker color for labels */
+  }
+  
+  hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 10px 0;
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    background-color: #e3f2fd; /* Light blue background for skills */
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+  
